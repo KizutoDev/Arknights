@@ -13,10 +13,10 @@
         "sizes": "512x512"
         }
     ],
-    "start_url": "/AN-EN-Tags/index.html",
+    "start_url": "/Arknights/index.html",
     "background_color": "#363636",
     "display": "standalone",
-    "scope": "/AN-EN-Tags/",
+    "scope": "/Arknights/",
     "theme_color": "#222222ff"
   }
   
